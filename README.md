@@ -1,2 +1,2 @@
 # bottom_Edge_Contour
-we need to have the bottom contour mapped and a line drawn
+code to demonstrate image processing techinique to find bottom edge and draw a line on top of it
